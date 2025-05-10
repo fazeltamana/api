@@ -1,0 +1,258 @@
+[
+  {
+    "id": "1",
+    "textDari": "از ماست که بر ماست",
+    "textPashto": "له موږ څخه پر موږ ده",
+    "translationEn": "It is from us that comes upon us.",
+    "meaning": "We are responsible for our own problems.",
+    "category": "wisdom"
+  },
+  {
+    "id": "2",
+    "textDari": "هر که بامش بیش، برفش بیشتر",
+    "textPashto": "څوک چې لوړ کور لري، ډېر واورې پرې وریږي",
+    "translationEn": "The higher the roof, the more snow it catches.",
+    "meaning": "With more power or wealth comes more responsibility.",
+    "category": "advice"
+  },
+  {
+    "id": "3",
+    "textDari": "اول خدا، دوم همسایه",
+    "textPashto": "اول خدای، دویم ګاونډی",
+    "translationEn": "First God, then the neighbor.",
+    "meaning": "Value your neighbors after God.",
+    "category": "community"
+  },
+  {
+    "id": "4",
+    "textDari": "سنگ مفت، گنجشک مفت",
+    "textPashto": "ډبره وړیا، مرغه وړیا",
+    "translationEn": "Free stone, free sparrow.",
+    "meaning": "If it's free, you lose nothing.",
+    "category": "humor"
+  },
+  {
+    "id": "5",
+    "textDari": "سیلی نقد به از حلوای نسیه",
+    "textPashto": "نقد څپیړه تر پور حلوه ښه ده",
+    "translationEn": "A slap now is better than sweet later.",
+    "meaning": "Something real now is better than a promise.",
+    "category": "wisdom"
+  },
+  {
+    "id": "6",
+    "textDari": "دوستی خاله خرسه",
+    "textPashto": "د خاله خرس دوستي",
+    "translationEn": "A bear-like aunt’s friendship.",
+    "meaning": "A well-meaning friend can still hurt you.",
+    "category": "humor"
+  },
+  {
+    "id": "7",
+    "textDari": "با یک گل بهار نمی‌شود",
+    "textPashto": "په یوه ګل پسرلی نه راځي",
+    "translationEn": "One flower doesn't bring spring.",
+    "meaning": "One person alone can't make a big change.",
+    "category": "wisdom"
+  },
+  {
+    "id": "8",
+    "textDari": "کار از محکم‌کاری عیب نمی‌کند",
+    "textPashto": "له احتیاطه کار خرابېږي نه",
+    "translationEn": "Caution doesn't ruin the work.",
+    "meaning": "Better safe than sorry.",
+    "category": "advice"
+  },
+  {
+    "id": "9",
+    "textDari": "مار گزیده از ریسمان سیاه می‌ترسد",
+    "textPashto": "د مار خوړلی له تور رسي وېرېږي",
+    "translationEn": "The snake-bitten fears even a black rope.",
+    "meaning": "Someone who's been hurt becomes overly cautious.",
+    "category": "life experience"
+  },
+  {
+    "id": "10",
+    "textDari": "نه نان از آسمان می‌بارد، نه ماهی از دریا می‌پرد",
+    "textPashto": "نه ډوډۍ له اسمانه وریږي، نه ماهی له بحر نه الوزي",
+    "translationEn": "Bread doesn’t fall from the sky, nor fish fly from the sea.",
+    "meaning": "You must work for what you want.",
+    "category": "hard work"
+  },
+  {
+    "id": "11",
+    "textDari": "گلیم خود را از آب بیرون کشیدن",
+    "textPashto": "خپله غالۍ له اوبو راایستل",
+    "translationEn": "To pull one's rug out of the water.",
+    "meaning": "To save oneself from a difficult situation.",
+    "category": "wisdom"
+  },
+  {
+    "id": "12",
+    "textDari": "دیر آمدن بهتر از هیچ آمدن است",
+    "textPashto": "وروستي راتلل د هېڅ نه راتلل بهتر دي",
+    "translationEn": "Better late than never.",
+    "meaning": "It's better to do something late than not to do it at all.",
+    "category": "patience"
+  },
+  {
+    "id": "13",
+    "textDari": "با یک گل بهار نمی‌شود",
+    "textPashto": "په یوه ګل پسرلی نه راځي",
+    "translationEn": "One flower doesn't make a spring.",
+    "meaning": "One person or thing alone isn't enough.",
+    "category": "wisdom"
+  },
+  {
+    "id": "14",
+    "textDari": "نابرده رنج، گنج میسر نمی‌شود",
+    "textPashto": "بې زحمته خزانه نه ترلاسه کیږي",
+    "translationEn": "Without hardship, there is no treasure.",
+    "meaning": "Success requires effort.",
+    "category": "hard work"
+  },
+  {
+    "id": "15",
+    "textDari": "هر که طاووس خواهد، جور هندوستان کشد",
+    "textPashto": "که څوک طاوس غواړي، د هند ستونزه به زغمي",
+    "translationEn": "Whoever wants a peacock must endure the troubles of India.",
+    "meaning": "If you want something beautiful, prepare for the challenges.",
+    "category": "advice"
+  },
+  {
+    "id": "16",
+    "textDari": "زبانت را به دندان بگیر، که بی‌حواسی بدترین دشمن است",
+    "textPashto": "خپل ژبه د غاښونو لاندې وساته، چې بې‌پروایي تر ټولو لوی دښمن دی",
+    "translationEn": "Bite your tongue, for carelessness is the worst enemy.",
+    "meaning": "Think before you speak; carelessness in words can cause harm.",
+    "category": "wisdom"
+  },
+  {
+    "id": "17",
+    "textDari": "دود از کنده بلند می‌شود",
+    "textPashto": "دود له زاړه لرګي پورته کیږي",
+    "translationEn": "Smoke rises from the old log.",
+    "meaning": "Wisdom comes with age and experience.",
+    "category": "wisdom"
+  },
+  {
+    "id": "18",
+    "textDari": "آب که یک‌جا بماند، می‌گندد",
+    "textPashto": "اوبه چې ودریږي، بدبوی پیدا کوي",
+    "translationEn": "Water that stays still, stinks.",
+    "meaning": "Stagnation leads to decay. Keep moving forward.",
+    "category": "advice"
+  },
+  {
+    "id": "19",
+    "textDari": "پشت هر خنده، گریه‌ای نهفته‌است",
+    "textPashto": "د هر خندا شاته ژړا پټه وي",
+    "translationEn": "Behind every smile, a tear may be hidden.",
+    "meaning": "Appearances can be deceiving.",
+    "category": "life experience"
+  },
+  {
+    "id": "20",
+    "textDari": "دل به دل راه دارد",
+    "textPashto": "زړه زړه پېژني",
+    "translationEn": "Heart knows the way to another heart.",
+    "meaning": "True feelings are sensed without words.",
+    "category": "love"
+  },
+  {
+    "id": "21",
+    "textDari": "اگر بخواهی به دریا بری، باید اول از رودخانه عبور کنی",
+    "textPashto": "که غواړې بحر ته ولاړ شې، نو باید لومړی له سیند څخه تېر شې",
+    "translationEn": "If you want to reach the sea, you must first cross the river.",
+    "meaning": "To achieve a big goal, you must first overcome smaller challenges.",
+    "category": "life lessons"
+  },
+  {
+    "id": "22",
+    "textDari": "کار نیکو، دشمن ندارد",
+    "textPashto": "ښه کار دښمن نه لري",
+    "translationEn": "A good deed has no enemies.",
+    "meaning": "Good deeds are always appreciated, and no one can oppose them.",
+    "category": "good deeds"
+  },
+  {
+    "id": "23",
+    "textDari": "نیکی در برابر بدی مانند درختی است که در کویر می‌روید",
+    "textPashto": "نیکي د بدۍ په وړاندې داسې ده لکه یوه ونه چې په صحرا کې وده وکړي",
+    "translationEn": "Goodness in the face of evil is like a tree growing in the desert.",
+    "meaning": "Doing good despite adversity is truly admirable.",
+    "category": "virtue"
+  },
+  {
+    "id": "24",
+    "textDari": "صدای مرده هیچگاه به گوش نمی‌رسد",
+    "textPashto": "د مړو غږ هیڅکله نه اوریدل کیږي",
+    "translationEn": "The voice of the dead is never heard.",
+    "meaning": "Once something or someone is gone, it’s too late to speak up.",
+    "category": "life"
+  },
+  {
+    "id": "25",
+    "textDari": "دریا هرچه بزرگتر باشد، امواجش بیشتر است",
+    "textPashto": "څومره چې سمندر لوی وي، څومره چې څپې یې زیاتې وي",
+    "translationEn": "The larger the sea, the greater the waves.",
+    "meaning": "The bigger the challenges, the greater the rewards or consequences.",
+    "category": "challenges"
+  },
+  {
+    "id": "26",
+    "textDari": "دوستی در کوه‌ها همیشه پیدا نمی‌شود",
+    "textPashto": "دوستي په غرونو کې تل نه مومي",
+    "translationEn": "Friendship is not always found in the mountains.",
+    "meaning": "True friendship is not easy to find and requires effort.",
+    "category": "friendship"
+  },
+  {
+    "id": "27",
+    "textDari": "همه چیز وقتی می‌ارزد که در قلب باشد",
+    "textPashto": "هر څه هغه وخت ارزښت لري چې په زړه کې وي",
+    "translationEn": "Everything is valuable when it is in the heart.",
+    "meaning": "True value comes from sincerity and passion.",
+    "category": "value"
+  },
+  {
+    "id": "28",
+    "textDari": "با هم بودن بهتر از جدا بودن است",
+    "textPashto": "په ګډه اوسېدل د جلا اوسېدو نه غوره دي",
+    "translationEn": "Being together is better than being apart.",
+    "meaning": "Unity is strength, and togetherness leads to success.",
+    "category": "unity"
+  },
+  {
+    "id": "29",
+    "textDari": "آنکه دندان ندارد، نباید از شیر صحبت کند",
+    "textPashto": "هغه څوک چې غاښونه نلري، باید د شيدو په اړه خبرې ونه کړي",
+    "translationEn": "He who has no teeth should not talk about milk.",
+    "meaning": "Do not speak of things you do not understand or cannot achieve.",
+    "category": "wisdom"
+  },
+  {
+    "id": "30",
+    "textDari": "بهترین جواب سکوت است",
+    "textPashto": "تر ټولو ښه ځواب سکوت دی",
+    "translationEn": "The best answer is silence.",
+    "meaning": "Sometimes silence is more powerful than words.",
+    "category": "wisdom"
+  },
+  {
+    "id": "31",
+    "textDari": "گربه‌ای که خوابیده، نمی‌پرد",
+    "textPashto": "سپین څاروی چې خوب کوي، نه الوزي",
+    "translationEn": "A cat that sleeps does not jump.",
+    "meaning": "If you don’t take action, nothing will happen.",
+    "category": "action"
+  },
+  {
+    "id": "21",
+    "textDari": "کسی که درختی می‌کارد، همیشه امید دارد",
+    "textPashto": "هغه څوک چې ونه کري، تل هیله لري",
+    "translationEn": "He who plants a tree always has hope.",
+    "meaning": "People who take actions for the future have hope and optimism.",
+    "category": "hope"
+  }
+]

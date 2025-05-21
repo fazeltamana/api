@@ -1,0 +1,53 @@
+<%- include('partials/header', { title: 'Add New Proverb' }) %>
+<h2 class="mb-3">Add a New Proverb</h2>
+
+<form action="/" method="POST" class="card p-4 shadow-sm">
+  <div class="mb-3">
+    <input
+      type="text"
+      class="form-control"
+      name="textDari"
+      placeholder="Proverb in Dari: "
+      required
+    />
+  </div>
+  <div class="mb-3">
+    <input
+      type="text"
+      class="form-control"
+      name="textPashto"
+      placeholder="Proverb in Pashto: "
+      required
+    />
+  </div>
+  <div class="mb-3">
+    <input
+      type="text"
+      class="form-control"
+      name="translationEn"
+      placeholder="Translation: "
+      required
+    />
+  </div>
+  <div class="mb-3">
+    <input
+      type="text"
+      class="form-control"
+      name="meaning"
+      placeholder="Meaning: "
+      required
+    />
+  </div>
+  <div class="mb-3">
+    <input
+      type="text"
+      class="form-control"
+      name="category"
+      placeholder="Category:"
+      required
+    />
+  </div>
+  <button class="btn btn-success">Add Proverb</button>
+</form>
+
+<%- include('partials/footer') %>

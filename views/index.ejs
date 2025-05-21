@@ -1,0 +1,47 @@
+<%- include("partials/header", {title: "Home"})%>
+<h1>All Proverbs page, HOME</h1>
+<% if(proverbs.length===0){ %>
+<div class="alert alert-info">
+  No Proverbs available right now, click ADD to add a new post
+</div>
+<% } %>
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <% proverbs.forEach((proverb, index)=>{ %>
+  <div class="col mb-5">
+    <div class="card h-100">
+      <div class="card-body">
+        <p class="card-text">
+          <strong>Proverb in Dari: </strong><%= proverb.textDari %>
+        </p>
+        <p class="card-text">
+          <strong>Proverb in Pashtoo: </strong><%= proverb.textPashto %>
+        </p>
+        <p class="card-text">
+          <strong>English Translation: </strong><%= proverb.translationEn %>
+        </p>
+        <p class="card-text">
+          <strong>Meaning: </strong><%= proverb.meaning %>
+        </p>
+        <p class="card-text">
+          <strong>Category: </strong><%= proverb.category %>
+        </p>
+      </div>
+    </div>
+    <div class="card-footer d-flex justify-content-between mt-3 mb-4">
+      <a href="/<%= proverb.id %>/edit" class="btn btn-sm btn-primary">Edit</a>
+      <a href="/<%= proverb.id %>/single" class="btn btn-sm btn-success"
+        >Detials</a
+      >
+      <form method="POST" action="/<%= proverb.id %>?_method=DELETE">
+        <button
+          class="btn btn-sm btn-danger"
+          onclick="return confirm('Are you sure?')"
+        >
+          Delete
+        </button>
+      </form>
+    </div>
+  </div>
+  <% }) %>
+</div>
+<%- include("partials/footer") %>

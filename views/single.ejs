@@ -1,0 +1,27 @@
+<%- include("partials/header", {title: "Single Proverb"})%>
+<h1>Detailed Single Proverb</h1>
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <div class="col mb-5">
+    <div class="card h-100">
+      <div class="card-body">
+        <p class="card-text">
+          <strong>Proverb in Dari: </strong><%= proverb.textDari %>
+        </p>
+        <p class="card-text">
+          <strong>Proverb in Pashtoo: </strong><%= proverb.textPashto %>
+        </p>
+        <p class="card-text">
+          <strong>English Translation: </strong><%= proverb.translationEn %>
+        </p>
+        <p class="card-text">
+          <strong>Meaning: </strong><%= proverb.meaning %>
+        </p>
+        <p class="card-text">
+          <strong>Category: </strong><%= proverb.category %>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<%- include("partials/footer") %>

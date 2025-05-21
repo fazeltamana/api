@@ -241,18 +241,26 @@
   },
   {
     "id": "31",
-    "textDari": "گربه‌ای که خوابیده، نمی‌پرد",
-    "textPashto": "سپین څاروی چې خوب کوي، نه الوزي",
-    "translationEn": "A cat that sleeps does not jump.",
-    "meaning": "If you don’t take action, nothing will happen.",
-    "category": "action"
-  },
-  {
-    "id": "21",
     "textDari": "کسی که درختی می‌کارد، همیشه امید دارد",
     "textPashto": "هغه څوک چې ونه کري، تل هیله لري",
     "translationEn": "He who plants a tree always has hope.",
     "meaning": "People who take actions for the future have hope and optimism.",
     "category": "hope"
+  },
+  {
+    "id": "1747752413953",
+    "textDari": "کار نیکو کردن از پر کردن است",
+    "textPashto": "ښه کار د هڅو پایله ده",
+    "translationEn": "Doing good work comes from effort",
+    "meaning": "Success is the result of hard work and persistence.",
+    "category": "Motivation"
+  },
+  {
+    "id": "1747830232710",
+    "textDari": "هر که باد می‌کارد، طوفان درو می‌کند",
+    "textPashto": "څوک چې باد شیندي، توپان به رېبي",
+    "translationEn": "He who sows the wind will reap the storm",
+    "meaning": "Actions have consequences — often bigger than expected.",
+    "category": "Wisdom / Consequences"
   }
 ]

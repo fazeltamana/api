@@ -1,0 +1,17 @@
+<%- include('partials/header', { title: 'Proverb Added' }) %>
+<h2 class="mb-3">✅ Proverb Successfully Added!</h2>
+
+<div class="card p-4 shadow-sm">
+  <p><strong>Proverb in Dari:</strong> <%= newProverb.textDari %></p>
+  <p><strong>Proverb in Pashto:</strong> <%= newProverb.textPashto %></p>
+  <p><strong>Translation:</strong> <%= newProverb.translationEn %></p>
+  <p><strong>Meaning:</strong> <%= newProverb.meaning %></p>
+  <p><strong>Category:</strong> <%= newProverb.category %></p>
+
+  <div class="mt-4 d-flex gap-2">
+    <a href="/" class="btn btn-primary">🏠 Back to Home</a>
+    <a href="/<%= newProverb.id %>/edit" class="btn btn-warning">✏️ Edit</a>
+  </div>
+</div>
+
+<%- include('partials/footer') %>

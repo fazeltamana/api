@@ -1,0 +1,49 @@
+<%- include("partials/header", {title: "Searched Proverb"})%>
+<h1>Search a Proverb</h1>
+<form action="/search" method="GET" class="d-flex mb-4">
+  <input
+    type="text"
+    name="search"
+    placeholder="Enter a keyword..."
+    class="form-control me-2"
+    value="<%= search || '' %>"
+    required
+  />
+  <button type="submit" class="btn btn-primary">Search</button>
+</form>
+<% if (search && matches.length === 0) { %>
+<p>No matching proverb found for "<%= search %>".</p>
+<% } %> <% if (matches.length > 0) { %> <% matches.forEach(function(proverb) {
+%>
+<div class="container mt-4">
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col md-4 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <p class="card-text">
+            <strong>Proverb in Dari: </strong><%= proverb.textDari %>
+          </p>
+          <p class="card-text">
+            <strong>Proverb in Pashtoo: </strong><%= proverb.textPashto %>
+          </p>
+          <p class="card-text">
+            <strong>English Translation: </strong><%= proverb.translationEn %>
+          </p>
+          <p class="card-text">
+            <strong>Meaning: </strong><%= proverb.meaning %>
+          </p>
+          <p class="card-text">
+            <strong>Category: </strong><%= proverb.category %>
+          </p>
+        </div>
+        <div class="card-footer d-flex justify-content-between mt-4">
+          <a href="/search" class="btn btn-success mb-3"
+            >Search Another Proverb</a
+          >
+          <a href="/" class="btn btn-secondary mb-3">Cancel</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<% }); %> <% }%> <%- include("partials/footer") %>

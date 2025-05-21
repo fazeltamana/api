@@ -1,0 +1,70 @@
+<%- include('partials/header', { title: 'Edit Proverb' }) %>
+
+<h2 class="mb-4">Edit Proverb</h2>
+
+<form action="/<%= proverb.id %>/edit" method="POST" class="card p-4 shadow-sm">
+  <div class="mb-3">
+    <label for="textDari" class="form-label">Proverb in Dari</label>
+    <input
+      type="text"
+      class="form-control"
+      id="textDari"
+      name="textDari"
+      value="<%= proverb.textDari %>"
+      required
+    />
+  </div>
+
+  <div class="mb-3">
+    <label for="textPashto" class="form-label">Proverb in Pashto</label>
+    <input
+      type="text"
+      class="form-control"
+      id="textPashto"
+      name="textPashto"
+      value="<%= proverb.textPashto %>"
+      required
+    />
+  </div>
+
+  <div class="mb-3">
+    <label for="translationEn" class="form-label">English Translation</label>
+    <input
+      type="text"
+      class="form-control"
+      id="translationEn"
+      name="translationEn"
+      value="<%= proverb.translationEn %>"
+      required
+    />
+  </div>
+
+  <div class="mb-3">
+    <label for="meaning" class="form-label">Meaning</label>
+    <input
+      type="text"
+      class="form-control"
+      id="meaning"
+      name="meaning"
+      value="<%= proverb.meaning %>"
+      required
+    />
+  </div>
+
+  <div class="mb-3">
+    <label for="category" class="form-label">Category</label>
+    <input
+      type="text"
+      class="form-control"
+      id="category"
+      name="category"
+      value="<%= proverb.category %>"
+      required
+    />
+  </div>
+
+  <button class="btn btn-primary">Update Proverb</button>
+  <a href="/" class="btn btn-secondary">Cancel</a>
+</form>
+
+<%- include('partials/footer') %>
